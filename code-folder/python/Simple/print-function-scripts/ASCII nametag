@@ -1,0 +1,7 @@
+print("Use an ASCII generator to make a cool python nametag!")
+print("then input every line into the print function, like below if you see it in an ide or anything that reads python code! :P")
+print(" ____            _   _      __  __           _     ")
+print("| __ )  ___  ___| |_(_) ___|  \/  | ___   __| |___ ")
+print("|  _ \ / _ \/ __| __| |/ _ \ |\/| |/ _ \ / _` / __|")
+print("| |_) |  __/\__ \ |_| |  __/ |  | | (_) | (_| \__ \")
+print("|____/ \___||___/\__|_|\___|_|  |_|\___/ \__,_|___/")
