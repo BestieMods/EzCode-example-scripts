@@ -3,9 +3,9 @@
 
 ## What to expect in here
 
--🎮 Games
--📖 Simple stuff
--❓Whatever you want me to put here :D
+- 🎮 Games
+- 📖 Simple stuff
+- ❓Whatever you want me to put here :D
 and files of syntax explanations, each in their own coding language
 ## Why i made this
 
