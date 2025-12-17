@@ -12,3 +12,19 @@ and files of syntax explanations, each in their own coding language
 To show what can be achieved by some of the simplest coding language, and to take a shot at some of the internet's most complex languages, and to showcase some of my own translated through python
 
 Also merry december 16th of 2025 if you want XP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+why are you even reading this XD
